@@ -1,10 +1,12 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Michelle Janosi
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on Nov 24, Tuesday, 2020.
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Learned printing, inputs, variables, new lines, string manipulation, and 
+debugging in Python. Used these in a simple program that generates a band name
+based on a user's input https://repl.it/@michellex/band-name-generator-start#main.py 
 
 ### R1D2
