@@ -16,7 +16,7 @@
 
 **Thoughts**: I do really like the simplicity of Python syntax. Looking forward to building more complex applications but starting off slow to build up to the more complex while learning the language.
 
-**Link(s) to work**: [Tip Calculator]()
+**Link(s) to work**: [Tip Calculator](tip_calculator.py)
 
 ### Day 3: November 26, 2020, Thursday (Thanksgiving 🇺🇸🦃)
 ##### *Python Basics*
