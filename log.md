@@ -23,9 +23,15 @@
 
 **Today's Progress**: Learned conditional statements, logical operators, code blocks, and scope.
 
-**Thoughts**: 
+**Thoughts**: Still learning the basics and getting reaclimated to programming logic. Found this to be a fun simple project day.
 
-**Link(s) to work**: []()
+**Link(s) to work**: 
+1. [Even or Odd](projects/even_or_odd.py)
+2. [BMI Calculator](projects/bmi_calculator.py)
+3. [Leap Year](projects/leap_year.py)
+4. [Pizza Order](projects/pizza_order.py)
+5. [Love Calculator](projects/love_calculator.py)
+6. [Choose Your Own Adventure Game](projects/choose_your_own_adventure_game.py)
 
 <!-- ### Day 3: November 26, Thursday (Thanksgiving)
 
