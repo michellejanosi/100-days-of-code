@@ -7,7 +7,7 @@
 
 **Thoughts:** With experience in other languages, I found these beginner tasks easy. Python is a nice language to work with. It's very similar to Ruby with it's simplicity in syntax. 
 
-**Link to work:** [Band Name Generator](https://repl.it/@michellex/band-name-generator-start#main.py)
+**Link to work:** [Band Name Generator](band_name_generator.py)
 
 ### Day 2: November 25, 2020, Wednesday
 ##### *Python Basics*
@@ -16,9 +16,9 @@
 
 **Thoughts**: I do really like the simplicity of Python syntax. Looking forward to building more complex applications but starting off slow to build up to the more complex while learning the language.
 
-**Link(s) to work**: [Tip Calculator](https://repl.it/@michellex/tip-calculator)
+**Link(s) to work**: [Tip Calculator]()
 
-### Day 3: November 26, 2020, Thursday (Thanksgiving 🦃)
+### Day 3: November 26, 2020, Thursday (Thanksgiving 🇺🇸🦃)
 ##### *Python Basics*
 
 **Today's Progress**: Learned conditional statements, logical operators, code blocks, and scope.
