@@ -23,7 +23,7 @@
 
 **Today's Progress**: Learned conditional statements, logical operators, code blocks, and scope.
 
-**Thoughts**: Still learning the basics and getting reaclimated to programming logic. Found this to be a fun simple project day.
+**Thoughts**: Still learning the basics and getting reacclimated to programming logic. Found this to be a fun simple project day.
 
 **Link(s) to work**: 
 1. [Even or Odd](projects/even_or_odd.py)
