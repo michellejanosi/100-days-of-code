@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: November 24, 2020, Tuesday 
-##### Python Basics
+##### *Python Basics*
 
 **Today's Progress**: Learned printing, commmenting, debugging, string manipulation, and variables in Python.
 
@@ -10,7 +10,7 @@
 **Link to work:** [Band Name Generator](https://repl.it/@michellex/band-name-generator-start#main.py)
 
 ### Day 2: November 25, 2020, Wednesday
-##### Python Basics
+##### *Python Basics*
 
 **Today's Progress**: Learned data types, numbers, operations, type conversion, and f-Strings.
 
@@ -18,6 +18,14 @@
 
 **Link(s) to work**: [Tip Calculator](https://repl.it/@michellex/tip-calculator)
 
+### Day 3: November 26, 2020, Thursday (Thanksgiving 🦃)
+##### *Python Basics*
+
+**Today's Progress**: Learned conditional statements, logical operators, code blocks, and scope.
+
+**Thoughts**: 
+
+**Link(s) to work**: []()
 
 <!-- ### Day 3: November 26, Thursday (Thanksgiving)
 
