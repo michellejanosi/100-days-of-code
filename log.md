@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
-### Day 0: November 24, 2020 
+### Day 1: November 24, 2020, Tuesday 
+##### Python Basics
 
 **Today's Progress**: Learned printing, commmenting, debugging, string manipulation, and variables in Python.
 
@@ -8,17 +9,17 @@
 
 **Link to work:** [Band Name Generator](https://repl.it/@michellex/band-name-generator-start#main.py)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: November 25, 2020, Wednesday
+##### Python Basics
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned data types, numbers, operations, type conversion, and f-Strings.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I do really like the simplicity of Python syntax. Looking forward to building more complex applications but starting off slow to build up to the more complex while learning the language.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Tip Calculator](https://repl.it/@michellex/tip-calculator)
 
 
-### Day 1: June 27, Monday
+<!-- ### Day 3: November 26, Thursday (Thanksgiving)
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -26,4 +27,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
