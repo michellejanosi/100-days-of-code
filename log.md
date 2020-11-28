@@ -43,12 +43,25 @@
 **Link(s) to work:**
 1. [Rock Paper Scissors](projects/rock_paper_scissors.py)
 
+### Day 5: November 28, Saturday
+
+**Today's Progress:** Learned for loops, range, and code blocks.
+
+**Thoughts:** Though the day involves using for loops, the password generator was created using Python functions that bypassed using loops. Will go back to solve without using handy functions.
+
+**Link(s) to work:**
+1. [Average Height](projects/average_height.py)
+2. [Highest Score](projects/highest_score.py)
+3. [Adding Evens](projects/adding_evens.py)
+4. [FizzBuzz](projects/fizzbuzz.py)
+5. [Password Generator](projects/password_generator.py)
+
 <!-- ### Day 3: November 26, Thursday (Thanksgiving)
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
+**Link(s) to work:**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
