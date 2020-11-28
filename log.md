@@ -33,6 +33,16 @@
 5. [Love Calculator](projects/love_calculator.py)
 6. [Choose Your Own Adventure Game](projects/choose_your_own_adventure_game.py)
 
+### Day 4: November 27, Friday
+##### *Python Basics*
+
+**Today's Progress**: Learned randomisation, using the random module, and lists.
+
+**Thoughts** I've recently got back into coding and I'm finding it easy to pick up a new language especially one as nice as Python. Enjoyed creating, though simple, the Rock Paper Scissors game. 
+
+**Link(s) to work**
+1. [Rock Paper Scissors](projects/rock_paper_scissors.py)
+
 <!-- ### Day 3: November 26, Thursday (Thanksgiving)
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
