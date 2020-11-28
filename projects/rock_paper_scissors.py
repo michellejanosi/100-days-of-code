@@ -35,6 +35,10 @@ player = int(input("What do you choose? Pick 0 for Rock, 1 for Paper, or 2 for S
 choice = [0, 1, 2]
 computer = random.choice(choice)
 
+if player < 0 or player >= 3:
+    print("Invalid number. You lose")
+    quit()
+
 if player == 0:
     if computer == 0:
         print(rock)
