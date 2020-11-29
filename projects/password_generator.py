@@ -11,11 +11,26 @@ nr_letters = int(input("How many letters would you like in your password?\n"))
 nr_symbols = int(input(f"How many symbols would you like?\n"))
 nr_numbers = int(input(f"How many numbers would you like?\n"))
 
-letters_chosen = random.sample(letters, nr_letters)
-symbols_chosen = random.sample(symbols, nr_symbols)
-numbers_chosen = random.sample(numbers, nr_numbers)
+# letters_chosen = random.sample(letters, nr_letters)
+# symbols_chosen = random.sample(symbols, nr_symbols)
+# numbers_chosen = random.sample(numbers, nr_numbers)
 
-password = letters_chosen + symbols_chosen + numbers_chosen
-random.shuffle(password)
-secure_password = ''.join(password)
+# password = letters_chosen + symbols_chosen + numbers_chosen
+# random.shuffle(password)
+# secure_password = ''.join(password)
+# print(f"Your secure password is:\n{secure_password}")
+
+secure_password = []
+for letter in range(1, nr_letters + 1):
+    secure_password.append(random.choice(letters))  
+    
+for number in range(1, nr_numbers + 1):
+    secure_password.append(random.choice(numbers)) 
+
+for symbol in range(1, nr_symbols + 1):
+    secure_password.append(random.choice(symbols)) 
+
+random.shuffle(secure_password)
+secure_password = ''.join(secure_password)
+
 print(f"Your secure password is:\n{secure_password}")
