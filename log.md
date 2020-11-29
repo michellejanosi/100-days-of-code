@@ -67,7 +67,8 @@
 **Link(s) to work:**
 [Reeborg's World - Maze](https://reeborg.ca/reeborg.html)
 
-```def turn_right():
+```
+def turn_right():
     turn_left()
     turn_left()
     turn_left()
