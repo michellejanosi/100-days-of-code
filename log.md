@@ -44,6 +44,7 @@
 1. [Rock Paper Scissors](projects/rock_paper_scissors.py)
 
 ### Day 5: November 28, Saturday
+##### *Python Basics*
 
 **Today's Progress:** Learned for loops, range, and code blocks.
 
@@ -56,7 +57,36 @@
 4. [FizzBuzz](projects/fizzbuzz.py)
 5. [Password Generator](projects/password_generator.py)
 
+### Day 6: November 29, Sunday 🏈
+##### *Python Basics*
+
+**Today's Progress**: Learned functions, code blocks, and while loops.
+
+**Thoughts:** Enjoyed working through the online Python coding game, Reeborg's World, to practice creating and calling functions, using while loops, and if/else statements.
+
+**Link(s) to work:**
+[Reeborg's World - Maze](https://reeborg.ca/reeborg.html)
+
+`def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+while front_is_clear():
+    move()
+turn_left()
+    
+while not at_goal():
+    if right_is_clear():
+        turn_right()
+        move()
+    elif front_is_clear():
+        move()
+    else:
+        turn_left()`
+
 <!-- ### Day 3: November 26, Thursday (Thanksgiving)
+##### *Python Basics*
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
