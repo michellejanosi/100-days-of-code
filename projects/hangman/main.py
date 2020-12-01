@@ -7,7 +7,7 @@ word_length = len(chosen_word)
 end_of_game = False
 lives = 6
 
-#Testing code
+# Testing code
 print(f'The solution is {chosen_word}.')
 
 print(hangman_art.logo)
@@ -20,13 +20,18 @@ for _ in range(word_length):
 while not end_of_game:
     guess = input("Guess a letter: ").lower()
 
+    if guess in display:
+        print(f"You already guessed letter {guess}.")
+
     # check guessed letter
     for position in range(word_length):
         letter = chosen_word[position]
         if letter == guess:
             display[position] = letter
-        
+
+    # check if incorrect guess
     if guess not in chosen_word:
+        print(f"Sorry, letter {guess} is not in the word.")
         lives -= 1
         if lives == 0:
             end_of_game = True
@@ -37,5 +42,5 @@ while not end_of_game:
     if "_" not in display:
         end_of_game = True
         print("You win")
-        
+
     print(hangman_art.stages[lives])
