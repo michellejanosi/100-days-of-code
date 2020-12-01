@@ -99,7 +99,7 @@ while not at_goal():
 ### Day 8: December 1, Tuesday ❄️
 ##### *Python Basics*
 
-**Today's Progress**: Continuing with for and while loops, if/else statements, lists, strings, range, and modules.
+**Today's Progress**: Continuing with for and while loops, if/else statements, lists, strings, range, and modules. Learned functions with inputs (arguments and parameters).
 
 **Thoughts:** Adding additonal features to the hangman game including the hangman itself.
 
