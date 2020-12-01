@@ -10,6 +10,7 @@ lives = 6
 #Testing code
 print(f'The solution is {chosen_word}.')
 
+print(hangman_art.logo)
 # create blank spaces
 display = []
 for _ in range(word_length):
