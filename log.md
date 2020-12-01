@@ -94,7 +94,7 @@ while not at_goal():
 **Thoughts:** Adding what I previously learned to create a hangman game.
 
 **Link(s) to work:**
-1. [Hangman](projects/hangman.py)
+1. [Hangman](projects/hangman/main.py)
 
 ### Day 8: December 1, Tuesday ❄️
 ##### *Python Basics*
@@ -104,7 +104,7 @@ while not at_goal():
 **Thoughts:** Adding additonal features to the hangman game including the hangman itself.
 
 **Link(s) to work:**
-1. [Hangman](projects/hangman.py)
+1. [Hangman](projects/hangman/main.py)
 
 <!-- ### Day 3: November 26, Thursday (Thanksgiving)
 ##### *Python Basics*
