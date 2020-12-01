@@ -86,6 +86,25 @@ while not at_goal():
     else:
         turn_left()
 ```
+### Day 7: November 30, Monday ☔️
+##### *Python Basics*
+
+**Today's Progress**: Continuing with for and while loops, if/else statements, lists, strings, range, and modules.
+
+**Thoughts:** Adding what I previously learned to create a hangman game.
+
+**Link(s) to work:**
+1. [Hangman](projects/hangman.py)
+
+### Day 8: December 1, Tuesday ❄️
+##### *Python Basics*
+
+**Today's Progress**: Continuing with for and while loops, if/else statements, lists, strings, range, and modules.
+
+**Thoughts:** Adding additonal features to the hangman game including the hangman itself.
+
+**Link(s) to work:**
+1. [Hangman](projects/hangman.py)
 
 <!-- ### Day 3: November 26, Thursday (Thanksgiving)
 ##### *Python Basics*
