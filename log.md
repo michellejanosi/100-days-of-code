@@ -106,6 +106,18 @@ while not at_goal():
 **Link(s) to work:**
 1. [Hangman](projects/hangman/main.py)
 
+### Day 9: December 2, Wednesday
+##### *Python Basics*
+
+**Today's Progress**: Continued with functions with inputs (arguments and parameters).
+
+**Thoughts:** Found this to be the most challenging when it came to letters at the end of the alphabet in Caeser Cipher. Adding an additional alphabet solved that problem. Will refactor to accomodate invalid inputs.
+
+**Link(s) to work:**
+1. [Paint Area Calculator](projects/area_calc.py)
+2. [Prime Number Checker](projects/prime_number_checker.py)
+3. [Caeser Cipher](projects/caeser_cipher.py)
+
 <!-- ### Day 3: November 26, Thursday (Thanksgiving)
 ##### *Python Basics*
 
