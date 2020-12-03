@@ -2,12 +2,6 @@ from art import logo
 
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
-print(logo)
-direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
-text = input("Type your message:\n").lower()
-shift = int(input("Type the shift number:\n"))
-shift = shift % 25
-
 def caeser(text, shift, direction):
     result = ""
 
@@ -24,4 +18,17 @@ def caeser(text, shift, direction):
     
     print(f"Your {direction}d text is: '{result}'")
 
-caeser(text, shift, direction)
+print(logo)
+
+should_continue = True
+while should_continue:
+    direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
+    text = input("Type your message:\n").lower()
+    shift = int(input("Type the shift number:\n"))
+    shift = shift % 25
+    caeser(text, shift, direction)
+
+    go_again = input("Type 'yes' if you want to go again. Otherwise, type 'no':\n")
+    if go_again == 'no':
+        should_continue = False
+        print("Goodbye")
