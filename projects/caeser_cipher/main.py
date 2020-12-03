@@ -14,11 +14,14 @@ def caeser(text, shift, direction):
     if direction == 'decode':
             shift *= -1
 
-    for letter in text:
-        position = alphabet.index(letter)
-        new_position = position + shift
-        result += alphabet[new_position]
+    for char in text:
+        if char in alphabet:
+            position = alphabet.index(char)
+            new_position = position + shift
+            result += alphabet[new_position]
+        else:
+            result += char
     
-    print(f"Your {direction}d text is {result}")
+    print(f"Your {direction}d text is: '{result}'")
 
 caeser(text, shift, direction)
