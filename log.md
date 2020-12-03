@@ -110,21 +110,19 @@ while not at_goal():
 ##### *Python Basics*
 
 **Today's Progress**: Continued with functions with inputs (arguments and parameters).
-
 **Thoughts:** Found this to be the most challenging when it came to letters at the end of the alphabet in Caeser Cipher. Adding an additional alphabet solved that problem. Will refactor to accomodate invalid inputs.
 
 **Link(s) to work:**
 1. [Paint Area Calculator](projects/area_calc.py)
 2. [Prime Number Checker](projects/prime_number_checker.py)
-3. [Caeser Cipher](projects/caeser_cipher.py)
+3. [Caeser Cipher](projects/caeser_cipher/main.py)
 
-<!-- ### Day 3: November 26, Thursday (Thanksgiving)
+### Day 10: December 3, Thursday
 ##### *Python Basics*
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Continued with Caeser Cipher project. Refactored and included additional functions.
 
-**Thoughts:** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** Enjoyed creating the project. Project was challenging. Stacking and implementing previous learnings helps in solidifying knowledge.
 
 **Link(s) to work:**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+1. [Caeser Cipher](projects/caeser_cipher/main.py)
