@@ -14,7 +14,7 @@ def encrypt(text, shift):
   
     print(f"Your encoded text is: {encoded_text}")
 
-def decode(text, shift):
+def decrypt(text, shift):
     decoded_text = ""
 
     for letter in text:
@@ -28,4 +28,4 @@ def decode(text, shift):
 if direction == "encode":
     encrypt(text, shift)
 elif direction == "decode":
-    decode(text, shift)
+    decrypt(text, shift)
