@@ -126,3 +126,13 @@ while not at_goal():
 
 **Link(s) to work:**
 1. [Caeser Cipher](projects/caeser_cipher/main.py)
+
+### Day 11: December 4, Friday
+##### *Python Basics*
+
+**Today's Progress**: Learned dictionaries and nesting. Started coding project, Silent Auction
+
+**Thoughts:** While the concepts are still relatively simple, remembering "dictionary" rather than "list" is something to get used to.
+
+**Link(s) to work:**
+1. [Silent Auction](projects/silent_auction/main.py)
