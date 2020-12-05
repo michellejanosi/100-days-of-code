@@ -136,3 +136,13 @@ while not at_goal():
 
 **Link(s) to work:**
 1. [Silent Auction](projects/silent_auction/main.py)
+
+### Day 12: December 5, Saturday
+##### *Python Basics*
+
+**Today's Progress**: Continued work on Silent Auction project.
+
+**Thoughts:** Worked way to long on a bug that involved a simple fix of indentation.
+
+**Link(s) to work:**
+1. [Silent Auction](projects/silent_auction/main.py)
