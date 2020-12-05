@@ -1,33 +1,36 @@
 from art import logo
 import os
 
-def cls():
-    os.system('cls' if os.name == 'nt' else 'clear')
-
-def bidding():
-    def highest_bid(bids):
-        max = 0
-        for bid in bids:
-            if bids[bid] > max:
-                max = bids[bid]
-
-        return bid, bid[max]
-
-    bids = {}
-
-    name = input("What is your name?: ")
-    bid = input(int("What is your bid? "))
-    other_bidders = input("Are there any other bidders? Type 'yes' or 'no': ")
-
-    bids.append()
-
-    if other_bidders == 'yes':
-        cls()
-        bidding()
-    else:
-        highest_bid(bids)
-        print(f"The winner is")
-
 print(logo)
 print("Welcome to the Secret Auction.")
-bidding()
+
+def clear_screen():
+    os.system("cls" if os.name == "nt" else "clear")
+
+bids = {}
+finished_bidding = False
+
+def find_highest_bidder(bids):
+    highest_bid = 0
+    winner = ""
+    for bidder in bids:
+        if bids[bidder] > highest_bid:
+            highest_bid = bids[bidder]
+            winner = bidder
+
+    return f"The winner is {winner} with a bid of ${highest_bid}."
+
+while not finished_bidding:
+    name = input("What is your name?: ")
+    bid = int(input("What is your bid?: $"))
+    bids[name] = bid
+    other_bidders = input("Are there any other bidders? Type 'yes or 'no'.\n")
+
+    if other_bidders == 'no':
+        finished_bidding = True
+        find_highest_bidder(bids)
+    elif other_bidders == 'yes':
+        clear_screen()
+
+
+print(find_highest_bidder(bids))
