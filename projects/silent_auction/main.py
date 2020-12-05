@@ -2,7 +2,7 @@ from art import logo
 import os
 
 def cls():
-    os.system('cls' if os.name=='nt' else 'clear')
+    os.system('cls' if os.name == 'nt' else 'clear')
 
 def bidding():
     def highest_bid(bids):
