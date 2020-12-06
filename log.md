@@ -146,3 +146,13 @@ while not at_goal():
 
 **Link(s) to work:**
 1. [Silent Auction](projects/silent_auction/main.py)
+
+### Day 13: December 6, Sunday
+##### *Python Basics*
+
+**Today's Progress**: Learned functions with outputs
+
+**Thoughts:** 
+
+**Link(s) to work:**
+1. []()
