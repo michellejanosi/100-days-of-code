@@ -7,12 +7,11 @@ year = int(input("What year do you want to check? "))
 if year % 4 == 0:
     if year % 100 == 0:
         if year % 400 == 0:
-           print(f"{year} is a leap year.")
+           return True
         else: 
-           print(f"{year} is not a leap year.")
+           return False
     else: 
-           print(f"{year} is a leap year.")
+           return True
 else:
   print(f"{year} is not a leap year.")
 
-# this definitely needs a refactor (DRY), and keyword
