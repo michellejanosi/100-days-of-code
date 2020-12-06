@@ -157,3 +157,4 @@ while not at_goal():
 **Link(s) to work:**
 1. [Number of Days in a Month](algorithms/leap_year.py)
 2. [Calculator](projects/calculator/main.py)
+3. [Blackjack](projects/blackjack/main.py)
