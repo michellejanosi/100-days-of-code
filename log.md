@@ -152,7 +152,8 @@ while not at_goal():
 
 **Today's Progress**: Learned functions with outputs
 
-**Thoughts:** 
+**Thoughts:** Indentation and adding colons seems to be a theme with my bugs. Understanding the meaning of errors has improved over the last several days.
 
 **Link(s) to work:**
-1. []()
+1. [Number of Days in a Month](algorithms/leap_year.py)
+2. [Calculator](projects/calculator/main.py)
