@@ -150,7 +150,7 @@ while not at_goal():
 ### Day 13: December 6, Sunday
 ##### *Python Basics*
 
-**Today's Progress**: Learned functions with outputs
+**Today's Progress**: Learned functions with outputs. Created and finished a calculator app and started new project, Blackjack.
 
 **Thoughts:** Indentation and adding colons seems to be a theme with my bugs. Understanding the meaning of errors has improved over the last several days.
 
