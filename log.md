@@ -158,3 +158,13 @@ while not at_goal():
 1. [Number of Days in a Month](algorithms/leap_year.py)
 2. [Calculator](projects/calculator/main.py)
 3. [Blackjack](projects/blackjack/main.py)
+
+### Day 13: December 6, Sunday
+##### *Python Basics*
+
+**Today's Progress**: Continued working on Blackjack game. Added workflow comments for each of the functions in the game.
+
+**Thoughts:** Working out the flow and each function of the game seems to be the most time consuming. Not sure if flowcharts are better or just typing out the thought process. Leaning towards just typing out the flow (pseudo code). Creating the flowchart is more time consuming from just getting the arrows right (dealing with the software).
+
+**Link(s) to work:**
+1. [Blackjack](projects/blackjack/main.py)
