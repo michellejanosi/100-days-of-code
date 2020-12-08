@@ -168,3 +168,13 @@ while not at_goal():
 
 **Link(s) to work:**
 1. [Blackjack](projects/blackjack/main.py)
+
+### Day 15: December 8, Tuesday
+##### *Python Basics*
+
+**Today's Progress**: Continued working on Blackjack game. 
+
+**Thoughts:** It took longer than I expected to finish writing the code. Found it super helpful though to first write the pseudocode and then code out each function to complete the game.
+
+**Link(s) to work:**
+1. [Blackjack](projects/blackjack/main.py)
