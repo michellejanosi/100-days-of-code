@@ -21,7 +21,7 @@
 ### Day 3: November 26, 2020, Thursday (Thanksgiving 🇺🇸🦃)
 ##### *Python Basics*
 
-**Today's Progress**: Learned conditional statements, logical operators, code blocks, and scope.
+**Today's Progress**: Learned conditional statements, logical operators, and code blocks.
 
 **Thoughts**: Still learning the basics and getting reacclimated to programming logic. Found this to be a fun simple project day.
 
@@ -178,3 +178,14 @@ while not at_goal():
 
 **Link(s) to work:**
 1. [Blackjack](projects/blackjack/main.py)
+
+### Day 16: December 9, Wednesday
+##### *Python Basics*
+
+**Today's Progress**: Learned namespaces and scope and local vs global variables.
+Started a new project, Number Guessing Game
+
+**Thoughts:** Finding that ':' is still a common bug issue for me when writing Python code. Just something to get used to and will eventually become second nature when writing functions and other statements involving ':'
+
+**Link(s) to work:**
+1. [Number Guessing Game](projects/number_guessing/main.py)
