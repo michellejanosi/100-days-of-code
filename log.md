@@ -189,3 +189,14 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. [Number Guessing Game](projects/number_guessing/main.py)
+
+### Day 17: December 10, Thursday
+##### *Python Basics*
+
+**Today's Progress**: Learned about debugging in Python and how to better find and fix errors in my code by describing the problem and testing assumptions. The handy print() and a debugger are also great tools.
+
+**Thoughts:** I have to say, using the debugger tool at [Python Tutor](http://pythontutor.com/) is fabulous! This is the single best tool to visualize what each line of code is doing to easily help find bugs AND to also get a better understanding of programming concepts and how code actually works. Love this so much.
+
+**Link(s) to work:**
+1. [Debugging](projects/debugging.py)
+2. [Python Tutor](http://pythontutor.com/visualize.html#code=def%20mutate%28a_list%29%3A%0A%20%20b_list%20%3D%20%5B%5D%0A%20%20for%20item%20in%20a_list%3A%0A%20%20%20%20new_item%20%3D%20item%20*%202%0A%20%20b_list.append%28new_item%29%0A%20%20print%28b_list%29%0A%0Amutate%28%5B1,2,3,5,8,13%5D%29&cumulative=false&curInstr=20&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
