@@ -200,3 +200,13 @@ Started a new project, Number Guessing Game
 **Link(s) to work:**
 1. [Debugging](projects/debugging.py)
 2. [Python Tutor](http://pythontutor.com/visualize.html#code=def%20mutate%28a_list%29%3A%0A%20%20b_list%20%3D%20%5B%5D%0A%20%20for%20item%20in%20a_list%3A%0A%20%20%20%20new_item%20%3D%20item%20*%202%0A%20%20b_list.append%28new_item%29%0A%20%20print%28b_list%29%0A%0Amutate%28%5B1,2,3,5,8,13%5D%29&cumulative=false&curInstr=20&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
+
+### Day 18: December 11, Friday
+##### *Python Basics*
+
+**Today's Progress**: Starting a new project, Higher Lower Game based on the game here, [The Higher Lower Game](http://www.higherlowergame.com/).
+
+**Thoughts:** Practicing building a project from idea to planning to code using the knowledge I've built up to this point. Planning is definitely the most challenging aspect.
+
+**Link(s) to work:**
+1. [Higher Lower Game](projects/higher_lower/main.py)
