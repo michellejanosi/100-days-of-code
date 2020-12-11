@@ -204,7 +204,7 @@ Started a new project, Number Guessing Game
 ### Day 18: December 11, Friday
 ##### *Python Basics*
 
-**Today's Progress**: Starting a new project, Higher Lower Game based on the game here, [The Higher Lower Game](http://www.higherlowergame.com/).
+**Today's Progress**: Starting a new project, Higher Lower Game based on the game here, [The Higher Lower Game](http://www.higherlowergame.com/). Compare and guess which of two choices has a higher Instagram following. Guess wrong, you lose but guess right and you continue with the next comparison.
 
 **Thoughts:** Practicing building a project from idea to planning to code using the knowledge I've built up to this point. Planning is definitely the most challenging aspect.
 
