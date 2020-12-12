@@ -210,3 +210,13 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. [Higher Lower Game](projects/higher_lower/main.py)
+
+### Day 19: December 12, Saturday
+##### *Python Basics*
+
+**Today's Progress**: Continued building project, Higher Lower Game based on the game here, [The Higher Lower Game](http://www.higherlowergame.com/). Compare and guess which of two choices has a higher Instagram following. Guess wrong, you lose but guess right and you continue with the next comparison.
+
+**Thoughts:** Probably spent way more time building this than it should have taken. Got hung up with clearing the screen at the start of the game but left code as is. It's a minor detail. May revisit later.
+
+**Link(s) to work:**
+1. [Higher Lower Game](projects/higher_lower/main.py)
