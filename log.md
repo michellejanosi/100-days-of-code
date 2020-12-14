@@ -220,3 +220,23 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. [Higher Lower Game](projects/higher_lower/main.py)
+
+### Day 20: December 13, Sunday
+##### *Python Basics*
+
+**Today's Progress**: You know those coffee vending machines you've probably seen at one of your old jobs with the watered down, not very tasty coffee? Well, that's the project I've started today, a command line coffee machine.
+
+**Thoughts:** It seems easy until everything breaks or doesn't work like you thought it would. Becoming a master at resolving bugs is a super power.
+
+**Link(s) to work:**
+1. [Coffee Machine](projects/coffee_machine/main.py)
+
+### Day 21: December 14, Monday
+##### *Python Basics*
+
+**Today's Progress**: Continued working on the Coffee Machine project.
+
+**Thoughts:** It gets easier the more I code out the projects though not easy enought to get the code 'perfect' the first time around. Does anyone?
+
+**Link(s) to work:**
+1. [Coffee Machine](projects/coffee_machine/main.py)
