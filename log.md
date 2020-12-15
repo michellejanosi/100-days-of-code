@@ -240,3 +240,13 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. [Coffee Machine](projects/coffee_machine/main.py)
+
+### Day 22: December 15, Tuesday
+##### *Python Basics*
+
+**Today's Progress**: Learned Object Oriented Programming(OOP) in Python: class, objects, attributes, and methods. Also worked with libraries, ex. Turtle, and Python packages via PyPi
+
+**Thoughts:** The Turtle library had all kinds of errors and I have no idea why. A bit frustrating but moved on. Trying to use pretty table but getting an error in VSCode that states "Unable to import 'prettytable' and, at the moment, can't figure out why even though I confirmed it's installed 😡
+
+**Link(s) to work:**
+1. [Turtle Graphics](projects/turtle_graphics/main.py)
