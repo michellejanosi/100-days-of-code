@@ -1,5 +1,9 @@
 from turtle import Turtle, Screen
 from prettytable import PrettyTable
+import pyjokes
+joke = pyjokes.get_joke('en', 'neutral')
+print(joke)
+
 
 timmy = Turtle()
 my_screen = Screen()
