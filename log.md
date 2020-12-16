@@ -242,7 +242,7 @@ Started a new project, Number Guessing Game
 1. [Coffee Machine](projects/coffee_machine/main.py)
 
 ### Day 22: December 15, Tuesday
-##### *Python Basics*
+##### *Python Intermediate*
 
 **Today's Progress**: Learned Object Oriented Programming(OOP) in Python: class, objects, attributes, and methods. Also worked with libraries, ex. Turtle, and Python packages via PyPi
 
@@ -250,3 +250,12 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. [Turtle Graphics](projects/turtle_graphics/main.py)
+
+### Day 23: December 16, Wednesday
+##### *Python Intermediate*
+
+**Today's Progress**: Spent the day debugging the import error for PyPi packages. 
+
+**Thoughts:** It definitely seems to be a VSCode issue because the packages are installed, confirmed via pip3 list, and the code runs as long as I use python3 but the error still exists per the Pylance message stating "MissingImports". Searching through the internets has not yet resolved the issue. Another option is to go through this whole section on Python in VSCode to hopefully resolve it [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
+
+**Link(s) to work:**
