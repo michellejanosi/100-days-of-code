@@ -1,8 +1,9 @@
-# from turtle import Turtle, Screen
+from turtle import Turtle, Screen
 from prettytable import PrettyTable
 import pyjokes
+
 joke = pyjokes.get_joke('en', 'neutral')
-print(joke)
+# print(joke)
 
 
 # timmy = Turtle()
@@ -11,6 +12,12 @@ print(joke)
 # print(my_screen)
 # my_screen.exitonclick()
 
-# timmy.shape("turtle")
-# timmy.color("coral")
-# timmy.forward(100)
+# timmy.shape("turtle") # This
+# timmy.color("coral")  # does not
+# timmy.forward(100)    # work for some reason
+
+table = PrettyTable()
+table.add_column("Pokemon Name", ["Pikachu", "Squirtle", "Charmander"])
+table.add_column("Type", ["Electric", "Fire", "Water"])
+table.align = "l"
+print(table)
