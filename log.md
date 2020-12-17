@@ -269,5 +269,5 @@ Started a new project, Number Guessing Game
 
 
 **Link(s) to work:**
-[Pretty Table](projects/turtle_graphics/main.py)
-[OOP Coffee Machine](projects/oop_coffee_machine)
+1. [Pretty Table](projects/turtle_graphics/main.py)
+2. [OOP Coffee Machine](projects/oop_coffee_machine)
