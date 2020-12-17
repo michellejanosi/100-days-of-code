@@ -259,3 +259,15 @@ Started a new project, Number Guessing Game
 **Thoughts:** It definitely seems to be a VSCode issue because the packages are installed, confirmed via pip3 list, and the code runs as long as I use python3 but the error still exists per the Pylance message stating "MissingImports". Searching through the internets has not yet resolved the issue. Another option is to go through this whole section on Python in VSCode to hopefully resolve it [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
 
 **Link(s) to work:**
+
+### Day 24: December 17, Thursday
+##### *Python Intermediate*
+
+**Today's Progress**: Practice with imports and using packages from PyPi. Converted Coffee Machine project to OOP but using imports from premade files to create the coffee machine.
+
+**Thoughts:** The import error was getting tiresome so after more Googling, I discovered that I can just turn off the error messaging for Pylance in json.settings. Done. Much happier now.
+
+
+**Link(s) to work:**
+[Pretty Table](projects/turtle_graphics/main.py)
+[OOP Coffee Machine](projects/oop_coffee_machine)
