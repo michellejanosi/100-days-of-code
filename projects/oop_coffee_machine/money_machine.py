@@ -6,7 +6,7 @@ class MoneyMachine:
         "quarters": 0.25,
         "dimes": 0.10,
         "nickles": 0.05,
-        "pennies": 0.01
+        # "pennies": 0.01
     }
 
     def __init__(self):
