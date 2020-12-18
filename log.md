@@ -271,3 +271,13 @@ Started a new project, Number Guessing Game
 **Link(s) to work:**
 1. [Pretty Table](projects/turtle_graphics/main.py)
 2. [OOP Coffee Machine](projects/oop_coffee_machine)
+
+### Day 25: December 18, Friday
+##### *Python Intermediate*
+
+**Today's Progress**: Learned how to create classes in Python. Created a true/false quiz game using these concepts.
+
+**Thoughts:** Having fun keeping track and creating models with functionality to create the program. All jokes aside, this was a little more difficult to manage but more practice will make this easier. 
+
+**Link(s) to work:**
+1. [Quiz](projects/quiz/main.py)
