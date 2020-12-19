@@ -281,3 +281,13 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. [Quiz](projects/quiz/main.py)
+
+### Day 26: December 19, Saturday
+##### *Python Intermediate*
+
+**Today's Progress**: Finished Quiz project.
+
+**Thoughts:** Definitely need more practice creating projects using OOP concepts. 
+
+**Link(s) to work:**
+1. [Quiz](projects/quiz/main.py)
