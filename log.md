@@ -291,3 +291,14 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. [Quiz](projects/quiz/main.py)
+
+### Day 27: December 20, Sunday
+##### *Python Basics*
+
+**Today's Progress**: Spent the day reviewing the basics of Python and the different built-in functions and methods that I didn't previously cover. Also worked through basic algorithm challenges.
+
+**Thoughts:** Was thinking this would be a good day to review to solidify the concepts. 
+
+**Link(s) to work:**
+1. [Reverse a String](algorithms/reverse_string.py)
+2. [List Check](algorithms/list_check.py)
