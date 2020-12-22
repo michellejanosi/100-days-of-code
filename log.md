@@ -312,3 +312,14 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. [Remove Every Other](algorithms/remove_every_other.py)
+
+### Day 29: December 22, Tuesday
+##### *Python Basics*
+
+**Today's Progress**: Learned about the enumerate function, *args, **kwargs, scope, the walrus operator and clean code. Practiced more algorithm challenges.
+
+**Thoughts:** Good idea to think about how my code can be 'cleaner' and more readable moving forward.
+
+**Link(s) to work:**
+1. [Check for Duplicates](algorithms/duplicates.py)
+2. [Sum Pairs](algorithms/sum_pair.py)
