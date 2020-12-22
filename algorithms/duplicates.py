@@ -2,7 +2,7 @@
 
 def check_for_duplicates(items):
     """
-    Returns a list of duplicate items from passed in list
+    Return a list of duplicate items from passed in list
     """
     duplicates = []
     for item in items:
