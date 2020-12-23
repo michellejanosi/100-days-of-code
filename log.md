@@ -323,3 +323,13 @@ Started a new project, Number Guessing Game
 **Link(s) to work:**
 1. [Check for Duplicates](algorithms/duplicates.py)
 2. [Sum Pairs](algorithms/sum_pair.py)
+
+### Day 30: December 23, Wednesday
+##### *Python Basics*
+
+**Today's Progress**: Reviewed basic Python and completed the Python exam here: [Python Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON) and [Python Exercise](https://www.w3schools.com/python/exercise.asp), to test my understanding. Also did more algorithm challenges.
+
+**Thoughts:** Glad I reviewed basic understanding before continuing on with intermediate concepts, like OOP which I will again review. Best to make sure I have the fundamentals down, for the most part, before taking on more challenging concepts. 
+
+**Link(s) to work:**
+1. [Sum Pairs](algorithms/sum_pair.py)
