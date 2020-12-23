@@ -3,16 +3,21 @@ sum_pairs([4,2,10,5,1], 6) # [4,2]
 sum_pairs([11,20,4,2,1,5], 100) # []
 '''
 
-
 def sum_pairs(items, number):
     '''
     Return first pair of numbers that sum to the number passed to the function.
     '''
-    # variable to store pairs
-    # iterate list of items
-    # compare each number in list with next index
-    # return numbers if add up to number
-    pair = []
-    
+    # initiate variable to hold unique item from items
+    # iterate items and compare item with number
+    # if number minus item equals the number, return list of pair
+    # otherwise, add item to value of checked items
+    # if no pair adds up to number, return empty list
+    checked = set()
+    for item in items:
+        difference = number - item
+        if difference in checked:
+            return [difference, item]
 
- sum_pairs([4,2,10,5,1], 6)   
+        checked.add(item)
+
+    return []
