@@ -333,3 +333,13 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. [Sum Pairs](algorithms/sum_pair.py)
+
+### Day 31: December 24, Thursday 
+##### *Python Intermediate*
+
+**Today's Progress**: Reviewed OOP concepts and syntax in Python.
+
+**Thoughts:** Didn't spend as much time today on code as previous days. Taking my time understanding concepts before moving forward. 
+
+**Link(s) to work:**
+1. 
