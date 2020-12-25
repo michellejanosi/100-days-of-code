@@ -343,3 +343,13 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. 
+
+### Day 32: December 25, Friday 🎄
+##### *Python Intermediate*
+
+**Today's Progress**: Reviewed/learned more OOP concepts (attributes and methods).
+
+**Thoughts:** This topis has always been a little bit of a struggle so definitely concentrating on learning, knowing, and practicing the concepts. Keep it light today because of the holiday.
+
+**Link(s) to work:**
+1. 
