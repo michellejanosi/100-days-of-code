@@ -353,3 +353,13 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. 
+
+### Day 34: December 27, Sunday
+##### *Python Intermediate*
+
+**Today's Progress**: Took a break from my computer on day 33 but back at mastering OOP concepts in Python; the 4 pillars of OOP (encapsulation, abstraction, inheritance, and polymorphism). Also learned there are no true private variables in Python but for other developers to know you mean it to be private, you use an underscore before the variable name. 
+
+**Thoughts:** Why do I feel like no true private variables in Python is a security issue? Makes me curious enough to look into private variables further
+
+**Link(s) to work:**
+1. [Inheritance Exercise](projects/inheritance_exercise.py)
