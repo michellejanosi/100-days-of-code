@@ -363,3 +363,13 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. [Inheritance Exercise](projects/inheritance_exercise.py)
+
+### Day 35: December 28, Monday
+##### *Python Intermediate*
+
+**Today's Progress**: Back to Turtle graphics, tuples, importing modules and reading documentation.
+
+**Thoughts:** When originally working with turtle graphics, there were a bunch of errors. Now, I'm not getting errors and I have no idea why. That's okay though bc it works though I'm still curious as to why. Working from documentation is great and a super important skill for obvious reasons. Good practice today.
+
+**Link(s) to work:**
+1. [Turtle Graphics](projects/turtle_graphics/main.py)
