@@ -373,3 +373,14 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. [Turtle Graphics](projects/turtle_graphics/main.py)
+
+### Day 36: December 29, Tuesday
+##### *Python Intermediate*
+
+**Today's Progress**: Continued with Turtle graphics and reading documentation.
+
+**Thoughts:** Using virtual environments for packages and modules seems to be a hurdle at the moment. I don't recall how I was able to successfully use it in Turtle Graphics but not in the Hirst Painting projects. More to research and learn.
+
+**Link(s) to work:**
+1. [Turtle Graphics](projects/turtle_graphics/main.py)
+2. [Hirst Painting](projects/hirst_painting/main.py)
