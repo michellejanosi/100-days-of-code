@@ -27,8 +27,8 @@ turtle = Turtle()
 screen = Screen()
 # turtle.color("DeepSkyBlue")
 screen.colormode(255)
-turtle.pensize(10)
-turtle.speed("fast")
+# turtle.pensize(10)
+turtle.speed("fastest")
 
 # draw a square
 # for _ in range(4):
@@ -74,6 +74,13 @@ def random_color():
 #     turtle.setheading(random.choice(directions))
 
 # draw a spirograph
+def draw_spirograph(gap):
+    for _ in range(int(360 / gap)):
+        turtle.color(random_color())
+        turtle.circle(100)
+        turtle.setheading(turtle.heading() + 10)
 
+
+draw_spirograph(5)
 
 screen.exitonclick()
