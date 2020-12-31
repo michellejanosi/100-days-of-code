@@ -20,13 +20,24 @@ turtle = Turtle()
 screen = Screen()
 
 screen.colormode(255)
-turtle.speed("fast")
+screen.screensize(150, 150)
+turtle.speed("fastest")
+turtle.penup()
+pos_x = -290
+pos_y = -230
+num_lines = 100
 
-for _ in range(10):
-    turtle.fd(10)
-    turtle.penup()
-    turtle.dot(20, random.choice(color_list))
-    turtle.fd(50)
-    turtle.pendown()
+while num_lines > 0:
+    turtle.setpos(pos_x, pos_y)
+
+    for _ in range(10):
+        turtle.penup()
+        turtle.fd(10)
+        turtle.penup()
+        turtle.dot(20, random.choice(color_list))
+        turtle.fd(50)
+        turtle.penup()
+        pos_y += 5
+        num_lines -= 1
 
 screen.exitonclick()
