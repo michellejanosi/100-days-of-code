@@ -377,7 +377,7 @@ Started a new project, Number Guessing Game
 ### Day 36: December 29, Tuesday
 ##### *Python Intermediate*
 
-**Today's Progress**: Continued with Turtle graphics and reading documentation.
+**Today's Progress**: Continued with Turtle graphics and reading documentation. Started Hirst Painting project based on paintings sold at auction [Hirst Painting](https://www.phillips.com/detail/damien-hirst/UK030121/80)
 
 **Thoughts:** Using virtual environments for packages and modules seems to be a hurdle at the moment. I don't recall how I was able to successfully use it in Turtle Graphics but not in the Hirst Painting projects. More to research and learn.
 
@@ -391,6 +391,16 @@ Started a new project, Number Guessing Game
 **Today's Progress**: Continued with the Hirst Painting project. Read documentation on colorgram to pull colors from an image. Got as far as the turtle drawing dots in a straight line. To do: fill the page with dots.
 
 **Thoughts:** Finally got the install to work by using "pip" instead of "pip3" like I saw in an article so at least the fix was easy. The problem may also be from using "run code" on VSCode as it seems to be running Python version 2 instead of 3.
+
+**Link(s) to work:**
+1. [Hirst Painting](projects/hirst_painting/main.py)
+
+### Day 38: December 31, Thursday
+##### *Python Intermediate*
+
+**Today's Progress**: Continued with the Hirst Painting project. Add function to repeat 10 dots per line for a total of 10 lines.
+
+**Thoughts:** Fun project. Not too complicated but fun reading through docs to figure out how to get the turtle graphic to print the dots and repeat that across and to the top of the page. 
 
 **Link(s) to work:**
 1. [Hirst Painting](projects/hirst_painting/main.py)
