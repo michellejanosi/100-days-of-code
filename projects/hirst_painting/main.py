@@ -33,10 +33,8 @@ while num_lines > 0:
     for _ in range(10):
         turtle.penup()
         turtle.fd(10)
-        turtle.penup()
         turtle.dot(20, random.choice(color_list))
         turtle.fd(50)
-        turtle.penup()
         pos_y += 5
         num_lines -= 1
 
