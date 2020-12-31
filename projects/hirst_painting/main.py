@@ -38,4 +38,5 @@ while num_lines > 0:
         pos_y += 5
         num_lines -= 1
 
+turtle.ht() # hide turtle after dots complete
 screen.exitonclick()
