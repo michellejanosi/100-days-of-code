@@ -21,6 +21,7 @@ screen = Screen()
 
 screen.colormode(255)
 screen.screensize(150, 150)
+screen.bgcolor("#F6F6F6")
 turtle.speed("fastest")
 turtle.penup()
 turtle.ht()  
