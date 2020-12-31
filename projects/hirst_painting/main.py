@@ -23,6 +23,7 @@ screen.colormode(255)
 screen.screensize(150, 150)
 turtle.speed("fastest")
 turtle.penup()
+turtle.ht()  
 pos_x = -290
 pos_y = -230
 num_lines = 100
@@ -31,12 +32,10 @@ while num_lines > 0:
     turtle.setpos(pos_x, pos_y)
 
     for _ in range(10):
-        turtle.penup()
         turtle.fd(10)
         turtle.dot(20, random.choice(color_list))
         turtle.fd(50)
         pos_y += 5
         num_lines -= 1
 
-turtle.ht() # hide turtle after dots complete
 screen.exitonclick()
