@@ -404,3 +404,13 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. [Hirst Painting](projects/hirst_painting/main.py)
+
+### Day 39: January 1, Friday
+##### *Python Intermediate*
+
+**Today's Progress**: Worked more with Turtle graphics and learned about event listeners and higher order functions. Started a new project.
+
+**Thoughts:** Didn't do a lot today with the holiday but did a few things creating a rudimentary Etch a Sketch using Turtle Graphics. I really like using this package/library.
+
+**Link(s) to work:**
+1. [Etch a Sketch](projects/etch_a_sketch/main.py)
