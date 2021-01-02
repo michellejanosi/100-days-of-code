@@ -8,6 +8,6 @@ def move_forward():
 
 
 screen.listen()
-screen.onkey(key="space", fun=move_forward)
+screen.onkey(key="w", fun=move_forward)
 
 screen.exitonclick()
