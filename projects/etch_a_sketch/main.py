@@ -23,8 +23,8 @@ def turn_counter_clockwise():
     turtle.left(45)
 
 
-def clear_screen():
-    screen.clearscreen()
+def clear_drawing():
+    screen.resetscreen()
 
 
 screen.listen()
@@ -32,5 +32,6 @@ screen.onkey(key="w", fun=move_forward)
 screen.onkey(key="s", fun=move_backward)
 screen.onkey(key="d", fun=turn_clockwise)
 screen.onkey(key="a", fun=turn_counter_clockwise)
+screen.onkey(key="c", fun=clear_drawing)
 
 screen.exitonclick()
