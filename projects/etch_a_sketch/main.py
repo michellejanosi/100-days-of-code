@@ -10,17 +10,17 @@ def move_forward():
 
 def move_backward():
     # key "s"
-    pass
+    turtle.backward(10)
 
 
-def move_clockwise():
+def turn_clockwise():
     # key "d"
-    pass
+    turtle.right(45)
 
 
-def move_counter_clockwise():
+def turn_counter_clockwise():
     # key "a"
-    pass
+    turtle.left(45)
 
 
 def clear_screen():
@@ -29,5 +29,8 @@ def clear_screen():
 
 screen.listen()
 screen.onkey(key="w", fun=move_forward)
+screen.onkey(key="s", fun=move_backward)
+screen.onkey(key="d", fun=turn_clockwise)
+screen.onkey(key="a", fun=turn_counter_clockwise)
 
 screen.exitonclick()
