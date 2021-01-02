@@ -15,12 +15,12 @@ def move_backward():
 
 def turn_clockwise():
     # key "d"
-    turtle.right(45)
+    turtle.right(10)
 
 
 def turn_counter_clockwise():
     # key "a"
-    turtle.left(45)
+    turtle.left(10)
 
 
 def clear_drawing():
