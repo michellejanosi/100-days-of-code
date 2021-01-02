@@ -410,7 +410,7 @@ Started a new project, Number Guessing Game
 
 **Today's Progress**: Worked more with Turtle graphics and learned about event listeners and higher order functions. Started a new project.
 
-**Thoughts:** Didn't do a lot today with the holiday but did a few things creating a rudimentary Etch a Sketch using Turtle Graphics. I really like using this package/library.
+**Thoughts:** Didn't do a lot today with the holiday but did a few things creating a rudimentary Etch a Sketch using Turtle Graphics. I really like using this module.
 
 **Link(s) to work:**
 1. [Etch a Sketch](projects/etch_a_sketch/main.py)
