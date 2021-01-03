@@ -425,3 +425,13 @@ Started a new project, Number Guessing Game
 **Link(s) to work:**
 1. [Etch a Sketch](projects/etch_a_sketch/main.py)
 2. [Turtle Race](projects/turtle_race/main.py)
+
+### Day 41: January 3, Sunday
+##### *Python Intermediate*
+
+**Today's Progress**: Continued working on the turtle race project.
+
+**Thoughts:** Fun project to create and fun to play as well. I can't get a win with the blue one, lol.
+
+**Link(s) to work:**
+1. [Turtle Race](projects/turtle_race/main.py)
