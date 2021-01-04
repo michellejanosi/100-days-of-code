@@ -435,3 +435,13 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. [Turtle Race](projects/turtle_race/main.py)
+
+### Day 42: January 4, Monday
+##### *Python Intermediate*
+
+**Today's Progress**: Started learning functional programming and pure functions and what that means; separating data and the behavior of the program.
+
+**Thoughts:** So when given the same data, a function always produces the same output with no side effects. Experience will help in seeing the benefits but in general, pure functions give you less buggy code. 
+
+**Link(s) to work:**
+1. 
