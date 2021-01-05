@@ -441,7 +441,17 @@ Started a new project, Number Guessing Game
 
 **Today's Progress**: Started learning functional programming and pure functions and what that means; separating data and the behavior of the program.
 
-**Thoughts:** So when given the same data, a function always produces the same output with no side effects. Experience will help in seeing the benefits but in general, pure functions give you less buggy code. 
+**Thoughts:** So when given the same data, a function always produces the same output with no side effects. They just provide the results of a given computation. Experience will help in seeing the benefits but in general, pure functions give you less buggy code. 
 
 **Link(s) to work:**
 1. 
+
+### Day 43: January 5, Tuesday
+##### *Python Intermediate*
+
+**Today's Progress**: Learned about the map function which is one of the tools that supports a functional programming style.
+
+**Thoughts:** Higher order functions are a bit more difficult and require more time for me to practice though the map function isn't too bad in Python. Practice makes perfect and more real life examples are helpful.
+
+**Link(s) to work:**
+1. [Some map function practice](https://repl.it/@michellex/FlickeringAwkwardLoops#main.py)
