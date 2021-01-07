@@ -455,3 +455,13 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. [Some map function practice](https://repl.it/@michellex/FlickeringAwkwardLoops#main.py)
+
+### Day 44: January 7, Thursday
+##### *Python Intermediate*
+
+**Today's Progress**: Learned about the filter function which is one of the tools that supports a functional programming style.
+
+**Thoughts:** Skipped a day of learning due to a funeral and the day turned out to be an exceptionally interesting day with the mob that took over DC. Planned on learning more with Python in the evening hours but, unfortunately, I allowed myself to be consumed by the  news. 
+
+**Link(s) to work:**
+1. 
