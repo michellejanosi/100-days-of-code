@@ -465,3 +465,13 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. 
+
+### Day 45: January 8, Friday
+##### *Python Intermediate*
+
+**Today's Progress**: Briefly learned the zip and reduce functions to continue with my functional programming learnings. 
+
+**Thoughts:** Still grasping functional programming concepts but mostly reading about the concepts. More practice needed but reserving that for the weekend when I have more time. 
+
+**Link(s) to work:**
+1. 
