@@ -475,3 +475,13 @@ Started a new project, Number Guessing Game
 
 **Link(s) to work:**
 1. 
+
+### Day 46: January 11, Monday
+##### *Python Intermediate*
+
+**Today's Progress**:  Practiced a few exercises on the previous learnings of Map, Filter, Zip, and Reduce.
+
+**Thoughts:** I had no motivation over the weekend to touch any code. To say today is a better day, definitely not but hitting that grit muscle and doing something even if it is just a small bit. 
+
+**Link(s) to work:**
+1. [Map, Filter, Zip, and Reduce Exercises](projects/exercises.py)
