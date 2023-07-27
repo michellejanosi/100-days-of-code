@@ -49,7 +49,7 @@ During this challenge, I've used a range of resources that have greatly helped m
 
 ## 💬 Connect With Me
 
-Feel free to reach out to me on [Twitter](#https://twitter.com/michellejanosi), [LinkedIn](#https://www.linkedin.com/in/michellejanosi/), or [Email](#mailto:michelle.janosi@gmail.com). Let's connect and grow together in this coding journey!
+Feel free to reach out to me on [Twitter](https://twitter.com/michellejanosi), [LinkedIn](https://www.linkedin.com/in/michellejanosi/), or [Email](mailto:michelle.janosi@gmail.com). Let's connect and grow together in this coding journey!
 
 ---
 
